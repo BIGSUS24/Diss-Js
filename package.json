@@ -1,0 +1,15 @@
+{
+  "name": "discord-js",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "Bot.js",
+  "scripts": {
+    "start": "node Bot"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
