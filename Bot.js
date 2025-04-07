@@ -21,4 +21,4 @@ client.on ("interactionCreate",(interact) => {
         content :"gaday gaday"
     })
 })
-client.login('MTI3MjUyNjM3NDc4NzIyMzU1NQ.Gfq7aA.U44W6KbuzRL3TFNyzaTz_2TOwFHroeyrsf122c');
+client.login('Niggas In paris');
